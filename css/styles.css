@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #003349;
+}
+
+#content {
+  margin: 10px auto;
+  max-width: 1200px;
+}
+
+h1, h3 {
+  font-family: 'Shippori Mincho', serif;
+  font-weight: 900;
+  color: #EDFCFF;
+  margin: 0;
+  line-height: 80%;
+}
+
+h1 {
+  font-size: 150px;
+}
+
+h3 {
+  font-size: 80px;
+}
